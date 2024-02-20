@@ -1,0 +1,172 @@
+ body{
+        background-color: bisque;
+       
+    }
+
+h1{
+color: red;
+}
+
+h2{
+    color: red;
+}
+
+h3{
+    color: red;
+}
+
+h4 {
+    color: red;
+}
+
+html{
+    font: 20px/1.5 normal arial, sans-serif;
+}
+
+h1, h2 {
+    font-variant: small-caps
+}
+
+h2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 43;
+}
+
+
+
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 1.2rem; 
+    color: purple;
+}
+
+
+q {
+    font-style: italic;
+    font-family: cursive;
+    font-size: 1.2rem; 
+}
+
+footer p{
+font-size: 0.8rem;
+}
+
+body {
+    width: 80%;
+    max-width: 1200px;
+}
+
+.main-section-figure img{
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-section-figure {
+    width: 70%; 
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video{
+    width: 100%;
+}
+
+body{
+    padding: 2rem;
+    margin: 0 auto;
+}
+
+header, footer{
+    text-align: center;
+}
+
+.mainsection {
+text-align: center;
+padding: 2rem;
+}
+
+#bio {
+    text-align: left;
+}
+
+.main-section-figure img{
+padding: 1rem;
+margin: 2rem auto;
+}
+
+#quote {
+padding: 0.5em;
+}
+
+#video {
+    padding: 1rem;
+}
+
+header, footer {
+border: 4px solid rgb(18, 36, 196);
+}
+
+.main-section-figure img {
+    border-radius: 5rem;
+}
+
+#absolute-path-image {
+    border: 2px solid rgb(68, 13, 82);
+    border-radius: 1rem;
+}
+
+#relative-path-image {
+    border: 2px solid rgba(151, 40, 13, 0.863);
+    border-radius: 1rem; 
+}
+
+#video {
+    border:  solid rgb(0, 255, 0);
+    border-radius: 1rem;
+}
+
+#quote {
+    border: 1px solid #09F;
+}
+
+#quote {
+    box-shadow: 5px 5px 9px black
+}
+
+ #video {
+    border: 2px solid #09F; 
+}
+
+#relative-path-image figcaption {
+    color: rgb(92, 27, 27); 
+}
+
+#absolute-path-image figcaption {
+    color: rgb(29, 29, 21); 
+}
+
+h1, h2 {
+    color: purple; 
+}
+
+header, footer {
+    background: linear-gradient(to right, rgb(226, 214, 214), rgb(83, 184, 70)); 
+}
+
+.mainsection {
+    background-color: hsla(56, 79%, 59%, 0.932); 
+}
+
+#absolute-path-image {
+    background-color: hsla(266, 85%, 38%, 0.5); 
+}
+
+#relative-path-image {
+    background-color: hsl(270, 5%, 60%); 
+}
